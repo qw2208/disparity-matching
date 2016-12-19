@@ -1,0 +1,5 @@
+Kdepth5.png and Kdepth7.png are the disparity maps for supporting window size as 5 and 7.
+File folder contains disparity maps of different disparity ranges.
+depthdp.jpg is disparity derived by dp algorithm.
+depthdpCPU.jpg is depth map derived by dp algorithm on CPU.
+depthSAD77CPu.png is depth map derived by SAD algorithm on CPU.
