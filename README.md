@@ -11,4 +11,4 @@
 Execution of dp algorithm and sad are around 0.2-0.4s on GPU. We also enclosed disparity maps we derived.
       
 `This is a code by Qingwei Wu and Reixuan Zhang` 
-> Please feel free to contact me: wuqingwei503@gmail.com
+> Please feel free to contact me: qw2208@columbia.edu
