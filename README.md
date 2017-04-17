@@ -8,7 +8,7 @@
 4. "dpmatching.py" is dp algorithm which could be implemented on CPU.  
 5. "imL.png" and "imR.png" are input left images and right images.    
 
-Execution of dp algorithm and sad are around 0.2-0.4s on GPU. We also enclosed disparity maps we derived.
+Execution of dp algorithm and sad are around 0.2-0.4s on GPU and 10^-3 matching. We also enclosed disparity maps we derived.
       
 `This is a code by Qingwei Wu and Reixuan Zhang` 
 > Please feel free to contact me: qw2208@columbia.edu
